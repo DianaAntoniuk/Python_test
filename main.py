@@ -21,3 +21,4 @@ print(word + str(number + int(str_num)))
 number = 7
 print("Result:", number)
 
+
